@@ -1,11 +1,11 @@
-# DESAFIO DE PROJETO: Construindo jogo de cartas do Yo-Gi-Oh com mecânica do jogo Jo-Ken-Po em JavaScript.
+# DESAFIO DE PROJETO: Jogo da memória com emojis em javascript.
 
 <hr />
 
 ### Descrição
 
 <p>
-Recriar um jogo do Yu-Gi-Oh utilizando as mecânicas de jogo do Jo-Ken-Po, explorando conceitos avançados de organização de states com Javascript puro, estruturação de arquivos e criação de funções reaproveitáveis.
+Desenvolvimento de um jogo da memória com emojis usando estilização CSS e eventos Javascript.
 </p>
 
 
